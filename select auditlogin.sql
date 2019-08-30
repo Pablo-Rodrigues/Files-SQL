@@ -1,0 +1,1 @@
+SELECT * FROM sys.fn_get_audit_file('F:\Auditoria\Login\Audit-20170510-145141_Login_BA689D12-BC1F-484A-AE43-949692E87E79_0_131412338745340000.sqlaudit', DEFAULT, DEFAULT) where server_principal_name = 'Vale'

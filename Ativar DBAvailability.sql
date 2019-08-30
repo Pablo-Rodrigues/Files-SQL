@@ -1,0 +1,1 @@
+alter availability group DB_ALWAYSON add database DistribuicaoOficial

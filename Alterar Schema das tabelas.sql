@@ -1,0 +1,1 @@
+select 'ALTER SCHEMA dbo TRANSFER schemaantigo.' + name + ';' from sys.tables where schema_id > 1
